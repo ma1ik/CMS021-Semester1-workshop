@@ -16,7 +16,7 @@ console.log(myGrid);
 console.log("Next one:");
   console.log(myGrid);
   myGrid = update_grid(myGrid);
-console.log("Next one:")
+console.log("Next one:");
 console.log(myGrid);
 
 
